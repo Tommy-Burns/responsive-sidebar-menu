@@ -12,7 +12,7 @@
     --body-color: #e4e9f7;
     --sidebar-color: #fff;
     --primary-color: #695cfe;
-    --primary-color1: #695cfe;
+    --primary-color1: #5b54a1;
     --primary-color-light: #f6f5ff;
     --toggle-color: #ddd;
     --text-color: #707070;
@@ -58,7 +58,8 @@ body.dark {
 }
 
 
-.image img{
+.image i{
+    font-size: 40px;
     color: var(--primary-color1);
 }
 
